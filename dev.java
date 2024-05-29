@@ -6,5 +6,8 @@
 * @Create 2024/5/29 14:36
 * @Version 1.0
 */public class dev {
+
     public String dev_1;
+    public String dev_2;
+
 }
