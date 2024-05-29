@@ -8,4 +8,5 @@
  * @Version 1.0
  */
 public class master {
+    public String dev_1;
 }
